@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bd12fea-102c-4f75-9994-77e1ba45f786" name="Default" comment="" />
+    <list default="true" id="3bd12fea-102c-4f75-9994-77e1ba45f786" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\ESEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\ESUFOBossEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\ESUFOBossGun.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\ESUFOEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\ESUFOGun.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\ESWeapon.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\EnemyShip.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\EnemyShipBuilding.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\EnemyShipFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\EnemyShipTesting.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\TestingReflection.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\UFOBossEnemyShip.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\UFOBossEnemyShipFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\UFOEnemyShip.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\UFOEnemyShipBuilding.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\UFOgame\UFOEnemyShipFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\Foo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\Foo2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\Foo3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\Foo4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\ReflectionHelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\ReflectionHelloWorld2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\ReflectionHelloWorld3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\ReflectionHelloWorld4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\JavaSeminars\seminar07\out\production\seminar07\quickstart\ReflectionHelloWorld5.class" afterPath="" />
+    </list>
     <ignored path="seminar07.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,6 +125,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -483,12 +512,12 @@
       <changelist id="3bd12fea-102c-4f75-9994-77e1ba45f786" name="Default" comment="" />
       <created>1413238526362</created>
       <updated>1413238526362</updated>
-      <workItem from="1413238529215" duration="1909000" />
+      <workItem from="1413238529215" duration="2508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1909000" />
+    <option name="totallyTimeSpent" value="2508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
